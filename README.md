@@ -1,5 +1,5 @@
 # Banco-Hospital3
-Parte-3
+PARTE 3 - Alimentando o banco de dados
 Jogando nas regras que você criou: 
 Crie scripts de povoamento das tabelas desenvolvidas na atividade anterior
 Observe as seguintes atividades: 
